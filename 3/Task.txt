@@ -1,0 +1,11 @@
+* write function_1() that does the following:
+	- takes input : name , age ,address.
+	- calls function_2().
+
+	* function_2() :
+		- creates a file if the file doesn't exist. write
+		- calls function_3().
+
+		* function_3() :
+			- writes the name, age and address into the file.
+			- prints the content of the file.
