@@ -1,0 +1,9 @@
+● Install python interpreter on your machine.
+● Write a program that counts up the number of vowels [a, e, i, o,
+u] contained in the string.
+● Fill an array of 5 elements from the user, Sort it in descending
+and ascending orders then display the output.
+● Write a program that prints the number of times the string 'iti'
+occurs in anystring.
+● Write a program that remove all vowels from the input word and
+generate a brief version of it.
