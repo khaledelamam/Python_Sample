@@ -1,0 +1,14 @@
+make a dictionary of at least 3 subjects each with a (name,final_grade=0).
+make a dictionary of a student with (name,subject,grade).
+
+make a package with 2 modules inside of it :
+	Teacher module:
+		* function that takes a subjects dictionary as an arg and fills in final grades from the teacher (input)
+
+	student module:
+		* function that takes in a student as an arg and checks if he passed his subject or not
+		grade / final_grade -> if more than 0.5 = passed
+
+NOTE :
+	handle Zero division error if the passing grade is 0.
+	handle value error/type error if the grade are strings instead of ints.
