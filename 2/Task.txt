@@ -1,0 +1,25 @@
+Write a function that accepts two arguments (length, start) to
+generate an array of a specific length filled with integer numbers
+increased by one from start.
+
+● write a function that takes a number as an argument and if the
+number divisible by 3 return "Fizz" and if it is divisible by 5 return
+
+"buzz" and if is is divisible by both return "FizzBuzz"
+● Write a function which has an input of a string from user then it
+will return the same string reversed.
+
+● Ask the user for his name then confirm that he has entered his
+name(not an empty string/integers). then proceed to ask him for
+his email and print all this data (Bonus) check if it is a valid email
+or not
+L
+
+
+● Write a program which repeatedly reads numbers until the user
+enters “done”.
+○ Once “done” is entered, print out the total, count, and
+average of the numbers.
+
+○ If the user enters anything other than a number, detect their
+mistake, print an error message and skip to the next number.
