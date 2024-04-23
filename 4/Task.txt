@@ -1,0 +1,20 @@
+create these classes:
+	subjects:
+		Attributes :
+			- name -> str
+			- final_grade -> float/int
+			- student_grade -> float/int
+
+	student:
+		Attributes :
+			- name -> str
+			- email -> str
+			- gpa -> float/int
+			- subjects -> [] # empty list
+
+		Methods :
+			- add_subject -> handle final_grade=0 errors and incorrect type errors
+			- calculate_grade -> calculate grade and print passed or failed
+
+* At least two student objects created
+* At least two subjects per student
